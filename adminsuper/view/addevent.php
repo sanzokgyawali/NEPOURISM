@@ -35,7 +35,7 @@
    <textarea class="ckeditor" name="event_description"></textarea>
   </div>
   <div class="form-group">
-    <label for="exampleInputEmail1">Event Description</label>
+    <label for="exampleInputEmail1">Destination For Event</label>
 	<select name="AddDestination">
 <?php
 var_dump($this->output);
